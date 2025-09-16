@@ -1,2 +1,10 @@
 hello
 hello-dbg
+*.o
+*.d
+*~
+*.swp
+*.swo
+*.DS_Store
+*.tmp
+*.temp
